@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59429acc-2520-4a2c-b393-e3a8f339ef72" name="Changes" comment="Upload Fluid Simulations" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="327OiZlXLD1W1Fhqd53H8AkYrKk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FireSimulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FluidSimulation2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FluidSimulation2DInteractive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FluidSimulation3D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FluidVectorField.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Simulation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/caseyhild/Documents/Programming/Fluid Simulations&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15332031&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Fluid Simulation Fire" />
+      <recent name="$PROJECT_DIR$/Fluid Simulation 3D" />
+      <recent name="$PROJECT_DIR$/Fluid Simulation 2D Interactive" />
+      <recent name="$PROJECT_DIR$/Fluid Simulation 2D" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fluid Simulation Fire" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FireSimulation">
+    <configuration name="FireSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FireSimulation" />
+      <module name="Fluid Simulation Fire" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluidSimulation2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluidSimulation2D" />
+      <module name="Fluid Simulation 2D" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluidSimulation2DInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluidSimulation2DInteractive" />
+      <module name="Fluid Simulation 2D Interactive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluidSimulation3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluidSimulation3D" />
+      <module name="Fluid Simulation 3D" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluidVectorField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluidVectorField" />
+      <module name="Fluid Vector Field" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FireSimulation" />
+        <item itemvalue="Application.FluidSimulation2D" />
+        <item itemvalue="Application.FluidSimulation2DInteractive" />
+        <item itemvalue="Application.FluidSimulation3D" />
+        <item itemvalue="Application.FluidVectorField" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-2f79fb23" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59429acc-2520-4a2c-b393-e3a8f339ef72" name="Changes" comment="" />
+      <created>1756768272967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756768272967</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Upload Fluid Simulations">
+      <option name="closed" value="true" />
+      <created>1757806938056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757806938056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Upload Fluid Simulations">
+      <option name="closed" value="true" />
+      <created>1757807290590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757807290590</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 5322c789">
+      <option name="closed" value="true" />
+      <created>1757807419162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757807419162</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 94c7e5a3">
+      <option name="closed" value="true" />
+      <created>1757807426366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757807426366</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;Create README.md&quot;&#10;&#10;This reverts commit c62b508a">
+      <option name="closed" value="true" />
+      <created>1757807434666</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757807434666</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload Fluid Simulations" />
+    <MESSAGE value="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 5322c789" />
+    <MESSAGE value="Revert &quot;Update README.md&quot;&#10;&#10;This reverts commit 94c7e5a3" />
+    <MESSAGE value="Revert &quot;Create README.md&quot;&#10;&#10;This reverts commit c62b508a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Create README.md&quot;&#10;&#10;This reverts commit c62b508a" />
+  </component>
+</project>
