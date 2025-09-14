@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$/Fluid Simulation Fire" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FluidVectorField">
+  <component name="RunManager" selected="Application.FireSimulation">
     <configuration name="FireSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FireSimulation" />
       <module name="Fluid Simulation Fire" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FluidVectorField" />
         <item itemvalue="Application.FireSimulation" />
-        <item itemvalue="Application.FluidSimulation3D" />
-        <item itemvalue="Application.FluidSimulation2DInteractive" />
         <item itemvalue="Application.FluidSimulation2D" />
+        <item itemvalue="Application.FluidSimulation2DInteractive" />
+        <item itemvalue="Application.FluidSimulation3D" />
+        <item itemvalue="Application.FluidVectorField" />
       </list>
     </recent_temporary>
   </component>
