@@ -1,5 +1,5 @@
 # Fluid Simulations
-For this project, I implemented simulations for various different types of fluids with vairous properties.
+For this project, I implemented simulations for various types of fluids with different properties.
 
 <img width="400" height="400" alt="Screenshot 2025-09-13 at 5 03 56 PM" src="https://github.com/user-attachments/assets/d631c30e-c234-48c5-b9ad-36c674bc10bd" />
 <img width="400" height="400" alt="Screenshot 2025-09-13 at 5 07 36 PM" src="https://github.com/user-attachments/assets/dc15a641-8467-40a0-b8a7-ac4e62282c41" />
